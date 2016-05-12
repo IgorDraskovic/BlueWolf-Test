@@ -1,8 +1,4 @@
-BlueWolf Code Test:
-
-Write a function in the programming language of your choice to solve the following problems.
-Each function MUST be accompanied by positive and negative unit tests.
-
+Test:
 
 i. Given an array with 1,000,000 integers between 1 and 1,000,000, one integer is in the array twice. Find the duplicate.
 
